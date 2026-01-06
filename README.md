@@ -84,7 +84,7 @@ The script produces:
 
 ## Author
 
-Anshath Ahamed - anshath7@gmail.com
+Mohamed Naseer Mohamed Afrath - mohmaednaseermohamedafrath@gmail.com
 
 ## License
 
